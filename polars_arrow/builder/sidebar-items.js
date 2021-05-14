@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BooleanArrayBuilder","Array builder for fixed-width primitive types"],["BooleanBufferBuilder",""],["NoNullLargeStringBuilder",""],["PrimitiveArrayBuilder","An arrow primitive builder that is faster than Arrow’s native builder because it uses Rust Vec’s as buffer"]],"type":[["LargeStringBuilder",""]]});
